@@ -18,12 +18,15 @@ Prayer | 3:20pm - 3:40pm
 ## Instructional Team
 * Enrique Coscarelli (Lead Instructor)
   * [Email Me](mailto:enrique.coscarelli@tuwaiq.edu.sa)
+  * Office hours are Sundays once we finish the day.
 
 * Maryam Balabeed (Instructor Associate)
   * [Email Me](mailto:maryam.balabeed@tuwaiq.edu.sa)
+  * Office hours are Mondays once we finish the day.
 
 * Hanin Nouh (Instructor Associate)
   * [Email Me](mailto:hanin.noah@tuwaiq.edu.sa)
+  * Office hours are Tuesdays once we finish the day.
 
 ## What We Expect From You
 ### Graduation Requirements
