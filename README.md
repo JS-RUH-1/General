@@ -39,7 +39,7 @@ Prayer | 3:20pm - 3:40pm
 * Talk to us
 
 ## Lesson Schedule
-| Week | Day | Lesson | Lesson | Lab | Homework |
+| Week | Day | Lesson | Lesson | Homework |
 | --- | ------------- | ------------- | ------------- | ------------- |
 | 1 | 1 | [Installation Guides](https://github.com/JS-RUH-1/Installation-Guides) | [Command line](https://github.com/JS-RUH-1/command_line/blob/master/Command%20Line.pptx) |
 | 1 | 2 | [Git and GitHub](https://github.com/JS-RUH-1/Git-GitHub/blob/master/Git%20Intro.pdf)  | 
