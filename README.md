@@ -45,4 +45,4 @@ Prayer | 3:20pm - 3:40pm
 | Week | Day | Lesson | Lesson | Lab | Homework |
 | --- | ------------- | ------------- | ------------- | ------------- | ------------- |
 | 1 | 1 | [Installation Guides](https://github.com/JS-RUH-1/Installation-Guides) | [Command line](https://github.com/JS-RUH-1/command_line) |
-| 1 | 2 | [Git and GitHub](https://github.com/JS-RUH-1/Git-GitHub)  | HTML |
+| 1 | 2 | [Git and GitHub](https://github.com/JS-RUH-1/Git-GitHub)  | [HTML]() |
