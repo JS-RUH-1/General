@@ -44,6 +44,6 @@ Prayer | 3:20pm - 3:40pm
 ## Lesson Schedule
 | Week | Day | Warmup | Lesson | Lesson | Lesson | Lab | Homework |
 | --- | ------------- | ------------- | -------------| ------------- | ------------- | ------------- | ------------- |
-| 1 | 1 | ------ | [Installation Guides](https://github.com/JS-RUH-1/Installation-Guides) | [Command line](https://github.com/JS-RUH-1/command_line/blob/master/Command%20Line.pdf) | [Git and GitHub](https://github.com/JS-RUH-1/Git-GitHub/blob/master/Git%20Intro.pdf) | [Lab](https://github.com/JS-RUH-1/W01-D01-Git-Github-LAB) | [HW](https://github.com/JS-RUH-1/W01D01-HW-Github) |
+| 1 | 1 | ------ | [Installation Guides](https://github.com/JS-RUH-1/Installation-Guides) | [Command line](https://github.com/JS-RUH-1/command_line/blob/master/Command%20Line.pdf) | [Git and GitHub](https://github.com/JS-RUH-1/Git-GitHub/blob/master/Git%20Intro.pdf) | [Lab]() | [HW](https://github.com/JS-RUH-1/W01D01-HW-Github) |
 | 1 | 2 | [Git & Github warmup](https://github.com/JS-RUH-1/W01-D02-Git-Github-Warmup/blob/master/README.md) | [HTML1](https://github.com/JS-RUH-1/Html1) | [HTML2](https://github.com/JS-RUH-1/HTML2) | []() | [Lab](https://github.com/EcaCosca/lab-htmlbuildingpractice) [Lab2](https://github.com/JS-RUH-1/W01-D02-HTML1-ex) | ---------- |
 
