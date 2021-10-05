@@ -13,7 +13,7 @@ Hi Everyone, Welcome to JS bootcamp. This repository contains informations, Assi
 | | Breaks 
 -- | -- 
 Lunch | 12:00pm - 1:00pm 
-Prayer | 3:20pm - 3:40pm 
+Prayer | 3:00pm - 3:20pm 
 
 ## Instructional Team
 * Enrique Coscarelli (Lead Instructor)
