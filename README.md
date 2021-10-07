@@ -18,16 +18,16 @@ Prayer | 3:00pm - 3:20pm
 ## Instructional Team
 * Enrique Coscarelli (Lead Instructor)
   * [enrique.coscarelli@tuwaiq.edu.sa](mailto:enrique.coscarelli@tuwaiq.edu.sa)
+  * Office hours are Sundays once we finish the day.
 
 * Maryam Balabeed (Instructor Associate)
   * [maryam.balabeed@tuwaiq.edu.sa](mailto:maryam.balabeed@tuwaiq.edu.sa)
+  * Office hours are Mondays once we finish the day.
 
 * Hanin Nouh (Instructor Associate)
   * [hanin.noah@tuwaiq.edu.sa](mailto:hanin.noah@tuwaiq.edu.sa)
-
-## Office Hours
-  * Office hours are Sundays once we finish the day.
-
+  * Office hours are Mondays once we finish the day.
+ 
 ## What We Expect From You
 ### Graduation Requirements
 * Complete and submit 85% of homework assignments.
@@ -47,6 +47,6 @@ Prayer | 3:00pm - 3:20pm
 | 1 | 1 | ------ | [Installation Guides](https://github.com/JS-RUH-1/Installation-Guides) | [Command line](https://github.com/JS-RUH-1/command_line/blob/master/Command%20Line.pdf) | [Git and GitHub](https://github.com/JS-RUH-1/Git-GitHub/blob/master/Git%20Intro.pdf) | [Lab]() | [HW](https://github.com/JS-RUH-1/W01D01-HW-Github) |
 | 1 | 2 | [Git & Github warmup](https://github.com/JS-RUH-1/W01-D02-Git-Github-Warmup/blob/master/README.md) | [HTML1](https://github.com/JS-RUH-1/Html1) | [HTML2](https://github.com/JS-RUH-1/HTML2) | []() | [Lab1](https://github.com/JS-RUH-1/W01-D02-HTML1-ex)  [Lab2](https://github.com/EcaCosca/lab-htmlbuildingpractice) [Lab3](https://github.com/JS-RUH-1/-w01d02_Lab_HTML2) | [HW](https://github.com/JS-RUH-1/W01D02-HW-HTML) |
 | 1 | 3 | [HTML warmup](https://github.com/JS-RUH-1/W01D03-Warmup-HTML) | [CSS1(Intro & Box modeling](https://github.com/JS-RUH-1/W01D03-CSS-Lesson/blob/master/CSS1.pptx.pdf) | [CSS2(Flexbox)](https://github.com/JS-RUH-1/W01D03-CSS-Lesson/blob/master/CSS_3.pptx.pdf) | ----------- | [Lab1](https://github.com/JS-RUH-1/W01D03-Lab-style) [Lab2](https://github.com/JS-RUH-1/W01D03-Lab-Box-Model) | [HW](https://github.com/EcaCosca/labcss) |
-| 1 | 4 | [CSS warmup](https://flexboxfroggy.com/) [CSS2 warmup](http://www.flexboxdefense.com/) | [CSS3(Grid)](https://github.com/JS-RUH-1/W01D03-CSS-Lesson/blob/master/CSS_2.pptx.pdf) | [CSS Responsive](https://github.com/JS-RUH-1/w01d04_Responsive/blob/master/Responsive.pptx.pdf) | [--]() | [Lab1](https://cssgridgarden.com/) [Lab2](https://github.com/JS-RUH-1/W01D03-Lab-Grid) [Lab3](https://github.com/JS-RUH-1/W01D04-Lab-responsive) []() | [HW](https://github.com/JS-RUH-1/W01D04-HW-ResponsiveGrid) |
+| 1 | 4 | [CSS warmup](https://flexboxfroggy.com/) [CSS2 warmup](http://www.flexboxdefense.com/) | [CSS3(Grid)](https://github.com/JS-RUH-1/W01D03-CSS-Lesson/blob/master/CSS_2.pptx.pdf) | [CSS Responsive](https://github.com/JS-RUH-1/w01d04_Responsive/blob/master/Responsive.pptx.pdf) | --------- | [Lab1](https://cssgridgarden.com/) [Lab2](https://github.com/JS-RUH-1/W01D03-Lab-Grid) [Lab3](https://github.com/JS-RUH-1/W01D04-Lab-responsive) []() | [HW](https://github.com/JS-RUH-1/W01D04-HW-ResponsiveGrid) |
 | 1 | 5 | [warmup]() | [CSS bootstrap](https://github.com/JS-RUH-1/w01d04_bootstrap/blob/master/CSS_Bootstrap.pptx.pdf) | [JS1](https://github.com/JS-RUH-1/-W01D05-JS-Lessons/blob/master/JS1.pptx.pdf) | ---------- | [Lab1](https://github.com/JS-RUH-1/W01D05-Bootstrap-Lab) | [HW](https://github.com/JS-RUH-1/W01D05-HW) |
 
