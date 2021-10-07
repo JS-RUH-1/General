@@ -2,7 +2,7 @@
 # Full Stack Web Development Bootcamp 12-Weeks (3 Oct 2021)
 Hi Everyone, Welcome to JS bootcamp. This repository contains informations, Assignments, Projects and Materials specific to your course.
 ## Important links
-* [Exit Ticket]() (Please complete it at the end of Thursday class each week)
+* [Exit Ticket](https://safcsp.typeform.com/to/JJigJFWd) (Please complete it at the end of Thursday class each week)
 
 ## Schedule
 |  | Days | Time |
