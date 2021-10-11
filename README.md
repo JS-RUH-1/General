@@ -22,11 +22,11 @@ Prayer | 3:00pm - 3:20pm
 
 * Maryam Balabeed (Instructor Associate)
   * [maryam.balabeed@tuwaiq.edu.sa](mailto:maryam.balabeed@tuwaiq.edu.sa)
-  * Office hours are Mondays once we finish the day.
+  * Office hours are Sundays once we finish the day.
 
 * Hanin Nouh (Instructor Associate)
   * [hanin.noah@tuwaiq.edu.sa](mailto:hanin.noah@tuwaiq.edu.sa)
-  * Office hours are Mondays once we finish the day.
+  * Office hours are Sundays once we finish the day.
  
 ## What We Expect From You
 ### Graduation Requirements
