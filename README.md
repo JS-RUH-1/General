@@ -3,7 +3,7 @@
 Hi Everyone, Welcome to JS bootcamp. This repository contains informations, Assignments, Projects and Materials specific to your course.
 ## Important links
 * [Exit Ticket](https://safcsp.typeform.com/to/JJigJFWd) (Please complete it at the end of Thursday class each week)
-
+* [Introduction](https://github.com/JS-RUH-1/Information/blob/master/Intro.pptx.pdf)
 ## Schedule
 |  | Days | Time |
 | --- | ------------- | ------------- |
