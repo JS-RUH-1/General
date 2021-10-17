@@ -8,7 +8,7 @@ Hi Everyone, Welcome to JS bootcamp. This repository contains informations, Assi
 |  | Days | Time |
 | --- | ------------- | ------------- |
 | Class | Sun - Thurs  | 9am - 5pm  |
-| Career Coach | -- | -- |
+| Career Coach | Thurs | 1pm-3pm |
 
 | | Breaks 
 -- | -- 
