@@ -54,3 +54,4 @@ Prayer | 3:00pm - 3:20pm
 | 2 | 3 | [warmup](https://github.com/JS-RUH-1/-W02D03-DOM-Warmup) | [JS5 (OOP)](https://github.com/JS-RUH-1/W01D05-JS-Lessons/blob/master/JavaScript_5(OOP).pptx.pdf) | ---------- | ---------- | [Lab](https://github.com/JS-RUH-1/W02D03-Lab-JS-OOP) | [HW](https://github.com/JS-RUH-1/W02D03-OOP-HW) |
 | 2 | 4 |[wamup](https://github.com/JS-RUH-1/W02D04-Warmup-OOP) | [JS6 (JSON)](https://github.com/JS-RUH-1/W01D05-JS-Lessons/blob/master/JavaScript_6(JSON)%20%5BAutosaved%5D.pptx.pdf) | ---------- | ---------- | [Lab](https://github.com/JS-RUH-1/W02D04-Lab-API) | [HW](https://github.com/JS-RUH-1/W02D04-OnlineStore-part2-HW) |
 | 2 | 5 | work on the online store | work on the online store | work on the online store | work on the online store | work on the online store | work on the online store
+| 3 | 1-5 | Project1 | Project1 | Project1 | Project1 | Project1 | Project1 
