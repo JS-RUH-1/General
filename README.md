@@ -30,7 +30,7 @@ Prayer | 3:00pm - 3:20pm
   * 
 # Curriculum Overview
 
-The Curriculum schedule is subject to change at the instructor's discretion.
+The Curriculum schedule is subject to change at the instructor's discretion.</br>
 You can find specific syllabus [here](https://github.com/JS-RUH-1/Syllabus/blob/master/Full-Stack%20Web%20Dev_Syllabus.pdf)
 
 ## Unit 1 \(Web Development Essentials \)
