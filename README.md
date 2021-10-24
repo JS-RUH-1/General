@@ -46,7 +46,7 @@ You can find specific syllabus [here](https://github.com/JS-RUH-1/Syllabus/blob/
 
 | Week | Topics |
 | :--- | :--- |
-| 4 | Advanced JS, React, Redux |
+| 4 | Advanced JS, React,JSX, Redux |
 | 5 | Axios, AJAX, Jest, Node|
 | 6 | Express, Full-stack with react and express | 
 | 7 | Project 2 |
