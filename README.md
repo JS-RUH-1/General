@@ -27,7 +27,41 @@ Prayer | 3:00pm - 3:20pm
 * Hanin Nouh (Instructor Associate)
   * [hanin.noah@tuwaiq.edu.sa](mailto:hanin.noah@tuwaiq.edu.sa)
   * Office hours are Sundays once we finish the day.
- 
+  * 
+# Curriculum Overview
+
+The Curriculum schedule is subject to change at the instructor's discretion.
+
+## Unit 1 \(Web Development Essentials \)
+
+| Week | Topics |
+| :--- | :--- |
+| 1 | Command-Line, Git, HTML, CSS |
+| 2 | JavaScript, DOM, JSON |
+| 3 | Project 1 | 
+
+
+## Unit 2 \(Web Development with React and Express \)
+
+| Week | Topics |
+| :--- | :--- |
+| 4 | Advanced JS, React, Redux |
+| 5 | Axios, AJAX, Jest, Node|
+| 6 | Express, Full-stack with react and express | 
+| 7 | Project 2 |
+
+## Unit 3 \(Full Stack Web Developer \)
+
+| Week | Topics |
+| :--- | :--- |
+| 8 | MongoDB, Authentication with JWT |
+| 9 | SQL |
+| 10 | Next JS | 
+| 11 | Final Project  |
+| 12 | Final Project  |
+
+
+
 ## What We Expect From You
 ### Graduation Requirements
 * Complete and submit 85% of homework assignments.
