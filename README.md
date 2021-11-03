@@ -98,3 +98,4 @@ You can find specific syllabus [here](https://github.com/JS-RUH-1/Syllabus/blob/
 | 5 | 1 | ------- | [React Context](https://github.com/JS-RUH-1/React-Lessons/blob/master/useContext.pdf) | --------- | ------- | [Lab](https://github.com/JS-RUH-1/W05D01Lab) | [HW](https://github.com/JS-RUH-1/W05D01HW) 
 | 5 | 2 | ------- | [Redux](https://github.com/JS-RUH-1/React-Lessons/blob/master/Redux.pptx.pdf) | --------- | ------- | [Lab](https://github.com/JS-RUH-1/W05D02Lab) | [HW](https://github.com/JS-RUH-1/W05D02Lab/blob/master/README.md)
 | 5 | 3 | ------- | [Mini Project](https://github.com/JS-RUH-1/W05D03-MiniProject) | --------- | ------- | ------- | -------
+| 5 | 4 | ------- | [Mini Project](https://github.com/JS-RUH-1/W05D03-MiniProject) | --------- | ------- | ------- | -------
