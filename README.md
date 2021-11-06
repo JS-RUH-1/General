@@ -100,3 +100,4 @@ You can find specific syllabus [here](https://github.com/JS-RUH-1/Syllabus/blob/
 | 5 | 3 | ------- | [Mini Project](https://github.com/JS-RUH-1/W05D03-MiniProject) | --------- | ------- | ------- | -------
 | 5 | 4 | ------- | [Mini Project](https://github.com/JS-RUH-1/W05D03-MiniProject) | --------- | ------- | ------- | -------
 | 5 | 5 | ------- | [useParams & useHistory](https://github.com/JS-RUH-1/React-Lessons/blob/master/useParams%26useHistory.pdf) | --------- | ------- | [Lab](https://github.com/JS-RUH-1/W05D05Lab) | -------
+| 6 | 1 | ------- | [Node](https://github.com/JS-RUH-1/Node-Express-Lessons/blob/master/Introduction%20to%20Node.pdf) | --------- | ------- | [Lab](https://github.com/JS-RUH-1/W06D01-NodeJS-Lab/blob/master/readme.md) | [HW](https://github.com/JS-RUH-1/W06D01HW)
