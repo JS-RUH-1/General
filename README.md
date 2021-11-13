@@ -103,3 +103,6 @@ You can find specific syllabus [here](https://github.com/JS-RUH-1/Syllabus/blob/
 | 6 | 1 | ------- | [Node](https://github.com/JS-RUH-1/Node-Express-Lessons/blob/master/Introduction%20to%20Node.pdf) | --------- | ------- | [Lab](https://github.com/JS-RUH-1/W06D01-NodeJS-Lab/blob/master/readme.md) | [HW](https://github.com/JS-RUH-1/W06D01HW)
 | 6 | 2 | ------- | [Express1](https://github.com/JS-RUH-1/Node-Express-Lessons/blob/master/Express1.pdf) | [Express2](https://github.com/JS-RUH-1/Node-Express-Lessons/blob/master/Express2.pdf) | ------- | [Lab](https://github.com/JS-RUH-1/W06D02-Express-Lab1) | [HW](https://github.com/JS-RUH-1/W06D02HW)
 | 6 | 3 | ------- | [Full Stack with React and Express](https://github.com/JS-RUH-1/Node-Express-Lessons/blob/master/Full%20Stack%20with%20React%20and%20Express.pdf) | ----- | ------- | [Lab](https://github.com/JS-RUH-1/W06D04EX) | [HW](https://github.com/JS-RUH-1/W06D03-FullStack-React-HW)
+| 6 | 4 | ------- | [Backend example](https://github.com/EcaCosca/Backendexample/blob/main/README.md) | [Tailwind](https://github.com/EcaCosca/Frontend-with-Tailwind-example/blob/main/README.md) | ------- | ----- | ----
+| 6 | 5 | ------- | []() | ----- | ------- | [Lab]() | [HW]()
+| 7 | 1-5 | [Project2](https://github.com/EcaCosca/Project-Unit-2/blob/main/README.md) | ------- | ----- | ------ | ------ | ------
