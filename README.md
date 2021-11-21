@@ -106,3 +106,4 @@ You can find specific syllabus [here](https://github.com/JS-RUH-1/Syllabus/blob/
 | 6 | 4 | ------- | [Backend example](https://github.com/EcaCosca/Backendexample/blob/main/README.md) | [Tailwind](https://github.com/EcaCosca/Frontend-with-Tailwind-example/blob/main/README.md) | ------- | ----- | ----
 | 6 | 5 | Complete the previous app | ------ | ----- | ------- | ----- | ------
 | 7 | 1-5 | [Project2](https://github.com/EcaCosca/Project-Unit-2/blob/main/README.md) | ------- | ----- | ------ | ------ | ------
+| 8 | 1 | ------ | [Introduction to Agile Development Process](https://github.com/JS-RUH-1/W08D01-Agile/blob/master/Introduction%20to%20Agile%20Development%20Process.pdf) | ----- | ------ | ------ | ------
