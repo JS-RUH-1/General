@@ -104,11 +104,56 @@ You can find specific syllabus [here](https://github.com/JS-RUH-1/Syllabus/blob/
 | 6 | 2 | ------- | [Express1](https://github.com/JS-RUH-1/Node-Express-Lessons/blob/master/Express1.pdf) | [Express2](https://github.com/JS-RUH-1/Node-Express-Lessons/blob/master/Express2.pdf) | ------- | [Lab](https://github.com/JS-RUH-1/W06D02-Express-Lab1) | [HW](https://github.com/JS-RUH-1/W06D02HW)
 | 6 | 3 | ------- | [Full Stack with React and Express](https://github.com/JS-RUH-1/Node-Express-Lessons/blob/master/Full%20Stack%20with%20React%20and%20Express.pdf) | ----- | ------- | [Lab](https://github.com/JS-RUH-1/W06D04EX) | [HW](https://github.com/JS-RUH-1/W06D03-FullStack-React-HW)
 | 6 | 4 | ------- | [Backend example](https://github.com/EcaCosca/Backendexample/blob/main/README.md) | [Tailwind](https://github.com/EcaCosca/Frontend-with-Tailwind-example/blob/main/README.md) | ------- | ----- | ----
-| 6 | 5 | Complete the previous app | ------ | ----- | ------- | ----- | ------
+| 6 | 5 | Complete the previous app | Complete the previous app | Complete the previous app | Complete the previous app | Complete the previous app | Complete the previous app
 | 7 | 1-5 | [Project2](https://github.com/EcaCosca/Project-Unit-2/blob/main/README.md) | [Project2](https://github.com/EcaCosca/Project-Unit-2/blob/main/README.md) | [Project2](https://github.com/EcaCosca/Project-Unit-2/blob/main/README.md) | [Project2](https://github.com/EcaCosca/Project-Unit-2/blob/main/README.md) | [Project2](https://github.com/EcaCosca/Project-Unit-2/blob/main/README.md) | [Project2](https://github.com/EcaCosca/Project-Unit-2/blob/main/README.md)
 | 8 | 1 | ------ | [Introduction to Agile Development Process](https://github.com/JS-RUH-1/W08D01-Agile/blob/master/Introduction%20to%20Agile%20Development%20Process.pdf) | [Jest](https://github.com/JS-RUH-1/React-Lessons/blob/master/Jest.pdf) | ------ | ------ | [HW](https://github.com/JS-RUH-1/W08D01HW)
 | 8 | 2 | ------ | [Approaches to Web Development](https://github.com/JS-RUH-1/W08D02-S1/blob/master/Approaches%20to%20Web%20Development.pdf) | [Introduction to Databases](https://github.com/JS-RUH-1/W08D02-MongoDB/blob/master/Introduction%20to%20Databases.pdf) | [Getting Started with MongoDB](https://github.com/JS-RUH-1/W08D02-MongoDB/blob/master/Getting%20Started%20with%20MongoDB.pdf) | ------ | [HW](https://github.com/JS-RUH-1/W08D02HW)
 | 8 | 3 | ------ | [Database Interaction II](https://github.com/JS-RUH-1/W08D02-MongoDB/blob/master/Database%20Interaction%20II.pdf) | -------- | ----- | ------ | [HW](https://github.com/JS-RUH-1/W08D03-HW)
 | 8 | 4 | ------ | [CRUD Express app with mongoose](https://github.com/JS-RUH-1/W08D04) | ------ | ----- | ------ | -------
-| 8 | 5 | ------ | Complete the previous app | ------ | ----- | ------ | ------
+| 8 | 5 | Complete the previous app | Complete the previous app | Complete the previous app | Complete the previous app | Complete the previous app | Complete the previous app
 | 9 | 1 | ------ | [JWT](https://github.com/JS-RUH-1/W08D05-JWT/blob/master/JWT.pdf) | ------ | ----- | ------ | [HW](https://github.com/JS-RUH-1/W08D05-JWT-and-Passport-HW)
+
+## Projects
+
+[Project1](https://github.com/JS-RUH-1/Project-Unit-1)
+
+| No. | Student | First Project Repo | First Project link | 
+| --- | ------------- | ------------- | ------------- | 
+| 1 | Abdullah Alsabi | [Project Repo](https://github.com/Abdullah-Alsabi/WeatherWebApp.git) | [Project link](https://resonsive-weather-app.netlify.app/)
+| 2 | Abdulmajeed | [Project Repo](https://github.com/Majeed99/Project-unit-1) | [Project link](https://weatherapi-majeed99.netlify.app/)
+| 3 | Abdulsalam Aldawsari | [Project Repo](https://github.com/aalsbr/RickMortyAPI) | [Project link](https://aalsbr.github.io/RickMortyAPI/)
+| 4 | Abrar Saeed | [Project Repo](https://github.com/abrarZhr/Project-Unit-1.git) | [Project link](https://abrarzhr.github.io/Project-Unit-1/)
+| 5 | Alanoud Almakhalafi | [Project Repo](https://github.com/Alanoudalmakhalafi/unit-one-project.git) | [Project link](https://alanoudalmakhalafi.github.io/unit-one-project/)
+| 6 | Amirah Almani | [Project Repo](https://github.com/Aalmani1/BestBooks) | [Project link](https://aalmani1.github.io/BestBooks/)
+| 7 | Amjad | [Project Repo](https://github.com/amjadT1000/The-Rick-And-Morty-Wiki) | [Project link](https://the-rick-and-morty-wiki.vercel.app/)
+| 8 | Ashraf Alghamdi | [Project Repo](https://github.com/Ashraf-tq/places_directory) | [Project link](https://ashraf-tq.github.io/places_directory/)
+| 9 | Basel | [Project Repo](https://github.com/TheRealBasel/TuwaiqGram) | [Project link](https://therealbasel.github.io/TuwaiqGram/)
+| 10 | Emad | [Project Repo](https://github.com/Dramex/MySHOW/) | [Project link](https://dramex.github.io/MySHOW/src)
+| 11 | Ghadah | [Project Repo](https://github.com/Ghadah-Ahmed/Cars-Agency) | ------
+| 12 | Hend | [Project Repo](https://github.com/hendfawaz/Project1/settings/pages) | [Project link](https://hendfawaz.github.io/Project1/)
+| 13 | Khaled Alhamad | [Project Repo](https://github.com/KhaledAlhamad/Project-Unit-1) | [Project link](https://khaledalhamad.github.io/Project-Unit-1/)
+| 14 | Maha alharbi | [Project Repo](https://github.com/mahaatechcampus/WeatherApp) | [Project link](https://mahaatechcampus.github.io/WeatherApp/)
+| 15 | Marah Almujahed | [Project Repo](https://almujahedmarah.github.io/pokemon/) | ------
+| 16 | Masha | [Project Repo](https://github.com/Mdwebs1) | [Project link](https://mdwebs1.github.io/Weather-API/)
+| 17 | Mushira Almalki | [Project Repo](https://github.com/Mu2Almalki/Movies) | [Project link](https://mu2almalki.github.io/Movies/)
+| 18 | Noura AlQarni | [Project Repo](https://github.com/NouraAlQarni/MoviesAPI) | [Project link](https://nouraalqarni.github.io/MoviesAPI/)
+| 19 | Shahad Bin-sweleh | [Project Repo](https://github.com/Shahad-F/Rick-And-Morty) | [Project link](https://shahad-f.github.io/Rick-And-Morty/?#)
+| 20 | Turki Haqawi | [Project Repo](https://github.com/Turki700/project-unit-one-hotelAPI) | [Project link](https://turki700.github.io/project-unit-one-hotelAPI/)
+| 21 | Yasser Altamimi | [Project Repo](https://github.com/0Yasser/Project-Unit-1) | [Project link](https://0yasser.github.io/Project-Unit-1/)
+| 22 | Yazeed Aleid | [Project Repo](https://github.com/Yazeed-Aleid/Project-Unit-1) | [Project link](https://yazeed-aleid.github.io/Project-Unit-1/)
+
+[Project2](https://github.com/EcaCosca/Project-Unit-2/blob/main/README.md)
+
+| Project name | Students name | Second Project Repo | Second Project link | 
+| --- | ------------- | ------------- | ------------- | 
+| E-INVOICE | Abdulsalam Aldawsari & Yazeed Aleid  | [Project Repo](https://github.com/aalsbr/E-INVOICE) | -----
+| Anime List | Khaled & Yasser | [Project Repo](https://github.com/KhaledAlhamad/Project2) | -----
+| Fitness tracker | Abdullah & Abdulmajeed | [Project Repo](https://github.com/Majeed99/project-unit-2) | [Project link](https://fitnessappdemo.herokuapp.com/)
+| Flower shop | Marah & Amirah | [Project Repo](https://github.com/Aalmani1/FlowerShope) | -----
+| Primary dental clinic appointments | Shahad & Alanoud  | [Project Repo](https://github.com/primary-dental-clinic-appointment-PDCA/project-unit-2) | ----
+| REALESTATE | Mushira & Hend | [Project Repo](https://github.com/Mu2Almalki/Project2) | -----
+| Riyadh Tickets | Maha & Emad | [Project Repo](https://github.com/RiyadhTickets/RiyadhTickets) | [Project link](https://riyadhtickets.herokuapp.com/)
+| SocialV | Basel & Noura | [Project Repo](https://github.com/Project2-SocialMedia/Project) | [Project link](http://138.68.129.216:3000/)
+| Story Board | Ghadah & Masha | [Project Repo](https://github.com/Ghadah-Ahmed/storyBoard) | -----
+| Video Sharing | Turki & Abrar | [Project Repo](https://github.com/project-unit-2/video-sharing-app) | [Project link](https://hype-videos.herokuapp.com/)
+| Wallet Manager | Ashraf & Amjad | [Project Repo](https://github.com/Ashraf-tq/Wallet_manager) | -----
