@@ -119,28 +119,28 @@ You can find specific syllabus [here](https://github.com/JS-RUH-1/Syllabus/blob/
 
 | No. | Student | First Project Repo | First Project link | 
 | --- | ------------- | ------------- | ------------- | 
-| 1 | Abdullah Alsabi | [Project Repo](https://github.com/Abdullah-Alsabi/WeatherWebApp.git) | [Project link](https://resonsive-weather-app.netlify.app/)
-| 2 | Abdulmajeed | [Project Repo](https://github.com/Majeed99/Project-unit-1) | [Project link](https://weatherapi-majeed99.netlify.app/)
-| 3 | Abdulsalam Aldawsari | [Project Repo](https://github.com/aalsbr/RickMortyAPI) | [Project link](https://aalsbr.github.io/RickMortyAPI/)
-| 4 | Abrar Saeed | [Project Repo](https://github.com/abrarZhr/Project-Unit-1.git) | [Project link](https://abrarzhr.github.io/Project-Unit-1/)
-| 5 | Alanoud Almakhalafi | [Project Repo](https://github.com/Alanoudalmakhalafi/unit-one-project.git) | [Project link](https://alanoudalmakhalafi.github.io/unit-one-project/)
-| 6 | Amirah Almani | [Project Repo](https://github.com/Aalmani1/BestBooks) | [Project link](https://aalmani1.github.io/BestBooks/)
-| 7 | Amjad | [Project Repo](https://github.com/amjadT1000/The-Rick-And-Morty-Wiki) | [Project link](https://the-rick-and-morty-wiki.vercel.app/)
-| 8 | Ashraf Alghamdi | [Project Repo](https://github.com/Ashraf-tq/places_directory) | [Project link](https://ashraf-tq.github.io/places_directory/)
-| 9 | Basel | [Project Repo](https://github.com/TheRealBasel/TuwaiqGram) | [Project link](https://therealbasel.github.io/TuwaiqGram/)
-| 10 | Emad | [Project Repo](https://github.com/Dramex/MySHOW/) | [Project link](https://dramex.github.io/MySHOW/src)
-| 11 | Ghadah | [Project Repo](https://github.com/Ghadah-Ahmed/Cars-Agency) | ------
-| 12 | Hend | [Project Repo](https://github.com/hendfawaz/Project1/settings/pages) | [Project link](https://hendfawaz.github.io/Project1/)
-| 13 | Khaled Alhamad | [Project Repo](https://github.com/KhaledAlhamad/Project-Unit-1) | [Project link](https://khaledalhamad.github.io/Project-Unit-1/)
-| 14 | Maha alharbi | [Project Repo](https://github.com/mahaatechcampus/WeatherApp) | [Project link](https://mahaatechcampus.github.io/WeatherApp/)
-| 15 | Marah Almujahed | [Project Repo](https://almujahedmarah.github.io/pokemon/) | ------
-| 16 | Masha | [Project Repo](https://github.com/Mdwebs1) | [Project link](https://mdwebs1.github.io/Weather-API/)
-| 17 | Mushira Almalki | [Project Repo](https://github.com/Mu2Almalki/Movies) | [Project link](https://mu2almalki.github.io/Movies/)
-| 18 | Noura AlQarni | [Project Repo](https://github.com/NouraAlQarni/MoviesAPI) | [Project link](https://nouraalqarni.github.io/MoviesAPI/)
-| 19 | Shahad Bin-sweleh | [Project Repo](https://github.com/Shahad-F/Rick-And-Morty) | [Project link](https://shahad-f.github.io/Rick-And-Morty/?#)
-| 20 | Turki Haqawi | [Project Repo](https://github.com/Turki700/project-unit-one-hotelAPI) | [Project link](https://turki700.github.io/project-unit-one-hotelAPI/)
-| 21 | Yasser Altamimi | [Project Repo](https://github.com/0Yasser/Project-Unit-1) | [Project link](https://0yasser.github.io/Project-Unit-1/)
-| 22 | Yazeed Aleid | [Project Repo](https://github.com/Yazeed-Aleid/Project-Unit-1) | [Project link](https://yazeed-aleid.github.io/Project-Unit-1/)
+| 1 | Abdullah Alsabi | [Weather Web App](https://github.com/Abdullah-Alsabi/WeatherWebApp.git) | [Weather Web App](https://resonsive-weather-app.netlify.app/)
+| 2 | Abdulmajeed | [Weather api](https://github.com/Majeed99/Project-unit-1) | [Weather api](https://weatherapi-majeed99.netlify.app/)
+| 3 | Abdulsalam Aldawsari | [Rick & Morty API](https://github.com/aalsbr/RickMortyAPI) | [Rick & Morty API](https://aalsbr.github.io/RickMortyAPI/)
+| 4 | Abrar Saeed | [Disney](https://github.com/abrarZhr/Project-Unit-1.git) | [Disney](https://abrarzhr.github.io/Project-Unit-1/)
+| 5 | Alanoud Almakhalafi | [Tasty](https://github.com/Alanoudalmakhalafi/unit-one-project.git) | [Tasty](https://alanoudalmakhalafi.github.io/unit-one-project/)
+| 6 | Amirah Almani | [Best Books](https://github.com/Aalmani1/BestBooks) | [Best Books](https://aalmani1.github.io/BestBooks/)
+| 7 | Amjad | [The Rick & Morty Wiki](https://github.com/amjadT1000/The-Rick-And-Morty-Wiki) | [The Rick & Morty Wiki](https://the-rick-and-morty-wiki.vercel.app/)
+| 8 | Ashraf Alghamdi | [Places directory](https://github.com/Ashraf-tq/places_directory) | [Places directory](https://ashraf-tq.github.io/places_directory/)
+| 9 | Basel | [TuwaiqGram](https://github.com/TheRealBasel/TuwaiqGram) | [TuwaiqGram](https://therealbasel.github.io/TuwaiqGram/)
+| 10 | Emad | [MySHOW](https://github.com/Dramex/MySHOW/) | [MySHOW](https://dramex.github.io/MySHOW/src)
+| 11 | Ghadah | [Cars Agency](https://github.com/Ghadah-Ahmed/Cars-Agency) | ------
+| 12 | Hend | [Pokemon](https://github.com/hendfawaz/Project1/settings/pages) | [Pokemon](https://hendfawaz.github.io/Project1/)
+| 13 | Khaled Alhamad | [Movie](https://github.com/KhaledAlhamad/Project-Unit-1) | [Movie](https://khaledalhamad.github.io/Project-Unit-1/)
+| 14 | Maha alharbi | [Weather App](https://github.com/mahaatechcampus/WeatherApp) | [Weather App](https://mahaatechcampus.github.io/WeatherApp/)
+| 15 | Marah Almujahed | [Pokemon](https://almujahedmarah.github.io/pokemon/) | ------
+| 16 | Masha | [Weather API](https://github.com/Mdwebs1) | [Weather API](https://mdwebs1.github.io/Weather-API/)
+| 17 | Mushira Almalki | [Movies](https://github.com/Mu2Almalki/Movies) | [Movies](https://mu2almalki.github.io/Movies/)
+| 18 | Noura AlQarni | [Movies API](https://github.com/NouraAlQarni/MoviesAPI) | [Movies API](https://nouraalqarni.github.io/MoviesAPI/)
+| 19 | Shahad Bin-sweleh | [Rick & Morty](https://github.com/Shahad-F/Rick-And-Morty) | [Rick & Morty](https://shahad-f.github.io/Rick-And-Morty/?#)
+| 20 | Turki Haqawi | [Hotel API](https://github.com/Turki700/project-unit-one-hotelAPI) | [Hotel API](https://turki700.github.io/project-unit-one-hotelAPI/)
+| 21 | Yasser Altamimi | [Movies](https://github.com/0Yasser/Project-Unit-1) | [Movies](https://0yasser.github.io/Project-Unit-1/)
+| 22 | Yazeed Aleid | [Books](https://github.com/Yazeed-Aleid/Project-Unit-1) | [Books](https://yazeed-aleid.github.io/Project-Unit-1/)
 
 [Project2](https://github.com/EcaCosca/Project-Unit-2/blob/main/README.md)
 
