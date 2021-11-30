@@ -146,7 +146,7 @@ You can find specific syllabus [here](https://github.com/JS-RUH-1/Syllabus/blob/
 
 | Project name | Students name | Second Project Repo | Second Project link | 
 | --- | ------------- | ------------- | ------------- | 
-| E-INVOICE | Abdulsalam Aldawsari & Yazeed Aleid  | [Project Repo](https://github.com/aalsbr/E-INVOICE) | -----
+| E-INVOICE | Abdulsalam & Yazeed | [Project Repo](https://github.com/aalsbr/E-INVOICE) | -----
 | Anime List | Khaled & Yasser | [Project Repo](https://github.com/KhaledAlhamad/Project2) | -----
 | Fitness tracker | Abdullah & Abdulmajeed | [Project Repo](https://github.com/Majeed99/project-unit-2) | [Project link](https://fitnessappdemo.herokuapp.com/)
 | Flower shop | Marah & Amirah | [Project Repo](https://github.com/Aalmani1/FlowerShope) | -----
