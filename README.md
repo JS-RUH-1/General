@@ -111,7 +111,9 @@ You can find specific syllabus [here](https://github.com/JS-RUH-1/Syllabus/blob/
 | 8 | 3 | ------ | [Database Interaction II](https://github.com/JS-RUH-1/W08D02-MongoDB/blob/master/Database%20Interaction%20II.pdf) | -------- | ----- | ------ | [HW](https://github.com/JS-RUH-1/W08D03-HW)
 | 8 | 4 | ------ | [CRUD Express app with mongoose](https://github.com/JS-RUH-1/W08D04) | ------ | ----- | ------ | -------
 | 8 | 5 | Complete the previous app | Complete the previous app | Complete the previous app | Complete the previous app | Complete the previous app | Complete the previous app
-| 9 | 1 | ------ | [JWT](https://github.com/JS-RUH-1/W08D05-JWT/blob/master/JWT.pdf) | ------ | ----- | ------ | [HW](https://github.com/JS-RUH-1/W08D05-JWT-and-Passport-HW)
+| 9 | 1 | Hack Event |  Hack Event |  Hack Event |  Hack Event |  Hack Event |  Hack Event
+| 9 | 2-4 | ------ | [JWT](https://github.com/JS-RUH-1/W08D05-JWT/blob/master/JWT.pdf) | ------ | ----- | ------ | [HW](https://github.com/JS-RUH-1/W08D05-JWT-and-Passport-HW)
+| 10 | 1 | ------ | [Next]() | ------ | ----- | ------ | [HW](https://github.com/JS-RUH-1/W10D01-Next-HW)
 
 ## Projects
 
