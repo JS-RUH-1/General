@@ -113,7 +113,8 @@ You can find specific syllabus [here](https://github.com/JS-RUH-1/Syllabus/blob/
 | 8 | 5 | Complete the previous app | Complete the previous app | Complete the previous app | Complete the previous app | Complete the previous app | Complete the previous app
 | 9 | 1 | Hack Event |  Hack Event |  Hack Event |  Hack Event |  Hack Event |  Hack Event
 | 9 | 2-4 | ------ | [JWT](https://github.com/JS-RUH-1/W08D05-JWT/blob/master/JWT.pdf) | ------ | ----- | ------ | [HW](https://github.com/JS-RUH-1/W08D05-JWT-and-Passport-HW)
-| 10 | 1 | ------ | [Next](https://github.com/JS-RUH-1/Next-JS/blob/master/Next.pdf) | ------ | ----- | ------ | [HW](https://github.com/JS-RUH-1/W10D01-Next-HW)
+| 10 | 1 | ------ | [Next-Frontend](https://github.com/JS-RUH-1/Next-JS/blob/master/Next.pdf) | ------ | ----- | ------ | [HW](https://github.com/JS-RUH-1/W10D01-Next-HW)
+| 10 | 2 | ------ | [Next-Backend(mongodb)]() | ------ | ----- | ------ | [HW](https://github.com/JS-RUH-1/W10D02-Nextjs-CRUD-HW)
 
 ## Projects
 
