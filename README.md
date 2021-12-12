@@ -115,6 +115,11 @@ You can find specific syllabus [here](https://github.com/JS-RUH-1/Syllabus/blob/
 | 9 | 2-4 | ------ | [JWT](https://github.com/JS-RUH-1/W08D05-JWT/blob/master/JWT.pdf) | ------ | ----- | ------ | [HW](https://github.com/JS-RUH-1/W08D05-JWT-and-Passport-HW)
 | 10 | 1 | ------ | [Next-Frontend](https://github.com/JS-RUH-1/Next-JS/blob/master/Next.pdf) | ------ | ----- | ------ | [HW](https://github.com/JS-RUH-1/W10D01-Next-HW)
 | 10 | 2 | ------ | Next-Backend(mongodb) | ------ | ----- | ------ | [HW](https://github.com/JS-RUH-1/W10D02-Nextjs-CRUD-HW)
+| 10 | 3 | ------ | Next-Backend(mongodb) | ------ | ----- | ------ | [HW](https://github.com/JS-RUH-1/W10D02-Nextjs-CRUD-HW)
+| 10 | 4-5 | Final Project |Final Project | Final Project | Final Project | Final Project | Final Project
+| 11 | 1-5 | Final Project |Final Project | Final Project | Final Project | Final Project | Final Project
+| 12 | 1-5 | Final Project |Final Project | Final Project | Final Project | Final Project | Final Project
+
 
 ## Projects
 
