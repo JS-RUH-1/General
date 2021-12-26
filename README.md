@@ -166,4 +166,6 @@ You can find specific syllabus [here](https://github.com/JS-RUH-1/Syllabus/blob/
 | Video Sharing | Turki & Abrar | [Project Repo](https://github.com/project-unit-2/video-sharing-app) | [Project link](https://hype-videos.herokuapp.com/)
 | Wallet Manager | Ashraf & Amjad | [Project Repo](https://github.com/Ashraf-tq/Wallet_manager) | -----
 
-# [Final Project](https://github.com/JS-RUH-1/Final-Project)
+---------------------- 
+## [Final Project](https://github.com/JS-RUH-1/Final-Project)
+-----------------------
