@@ -119,6 +119,7 @@ You can find specific syllabus [here](https://github.com/JS-RUH-1/Syllabus/blob/
 | 10 | 4-5 | Final Project |Final Project | Final Project | Final Project | Final Project | Final Project
 | 11 | 1-5 | Final Project |Final Project | Final Project | Final Project | Final Project | Final Project
 | 12 | 1-5 | Final Project |Final Project | Final Project | Final Project | Final Project | Final Project
+| - | - | ----- | [Heroku_Deployment](https://github.com/JS-RUH-1/Heroku_Deployment) | ----- | ----- | ----- | -----
 
 
 ## Projects
