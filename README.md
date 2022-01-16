@@ -173,11 +173,11 @@ You can find specific syllabus [here](https://github.com/JS-RUH-1/Syllabus/blob/
 | No. | Student | Final Project Repo | Final Project link | 
 | --- | ------------- | ------------- | ------------- | 
 | 1 | Abdullah Alsabi | [Coins-Tracker](https://github.com/Abdullah-Alsabi/Final-Project) | [Coins-Tracker]()
-| 2 | Abdulmajeed | [PlaceX](https://github.com/Majeed99/FINAL_PROJECT) | [PlaceX]()
+| 2 | Abdulmajeed | [PlaceX](https://github.com/Majeed99/FINAL_PROJECT) | [PlaceX](https://placex-location.herokuapp.com)
 | 3 | Abdulsalam Aldawsari | [TuwaiqAuth](https://github.com/aalsbr/TuwaiqAuth) | [TuwaiqAuth]()
 | 4 | Abrar Saeed | [citytours](https://github.com/abrarZhr/Final-Project) | [citytours]()
 | 5 | Alanoud Almakhalafi | [ParkingYard](https://github.com/Alanoudalmakhalafi/Final_Project) | [ParkingYard]()
-| 6 | Amirah Almani | [Perfect-Perfumes](https://github.com/Aalmani1/Perfect-Perfumes) | [Perfect-Perfumes]()
+| 6 | Amirah Almani | [Perfect-Perfumes](https://github.com/Aalmani1/Perfect-Perfumes) | [Perfect-Perfumes](https://perfect-perfumes.herokuapp.com/)
 | 7 | Amjad | [Payment System](https://github.com/amjadT1000/paymentsys) | [Payment System]()
 | 8 | Ashraf Alghamdi | [webStyler](https://github.com/Ashraf-tq/webStyler) | [webStyler]()
 | 9 | Basel | [TuwaiqPay](https://github.com/TheRealBasel/FinalProject) | [TuwaiqPay]()
@@ -186,7 +186,7 @@ You can find specific syllabus [here](https://github.com/JS-RUH-1/Syllabus/blob/
 | 12 | Hend | [Personall Shoper](https://github.com/HendAlyahya/FinalProject) | [Personall Shoper]()
 | 13 | Khaled Alhamad | [ShoeWear](https://github.com/KhaledAlhamad/EastStore) | [ShoeWear]()
 | 14 | Maha alharbi | [Blush Store](https://github.com/mahaatechcampus/Final-Project-T1000) | [Blush Store]()
-| 15 | Marah Almujahed | [Dior](https://github.com/almujahedmarah/Dior2) | [Dior]()
+| 15 | Marah Almujahed | [Dior](https://github.com/almujahedmarah/Dior2) | [Dior](https://dior-store.herokuapp.com/Addprodact/61b1df23db2645c13798f3ee)
 | 16 | Masha | [welcome](https://github.com/Mdwebs1/Welcom) | [welcome]()
 | 17 | Mushira Almalki | [Hello](https://github.com/Mu2Almalki/FinalProject) | [Hello]()
 | 18 | Noura AlQarni | [Dream Tourism](https://github.com/NouraAlQarni/FainalProject) | [Dream Tourism]()
