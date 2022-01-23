@@ -181,7 +181,7 @@ You can find specific syllabus [here](https://github.com/JS-RUH-1/Syllabus/blob/
 | 7 | Amjad | [Payment System](https://github.com/amjadT1000/paymentsys) | [Payment System]()
 | 8 | Ashraf Alghamdi | [webStyler](https://github.com/Ashraf-tq/webStyler) | [webStyler]()
 | 9 | Basel | [TuwaiqPay](https://github.com/TheRealBasel/FinalProject) | [TuwaiqPay]()
-| 10 | Emad | [Hayyak](https://github.com/Dramex/Hayyak) | [Hayyak]()
+| 10 | Emad | [Hayyak](https://github.com/Dramex/Hayyak) | [Hayyak](https://hayyak.travel)
 | 11 | Ghadah | [Quick Compo](https://github.com/Ghadah-Ahmed/Finale) | [Quick Compo]()
 | 12 | Hend | [Personall Shoper](https://github.com/HendAlyahya/FinalProject) | [Personall Shoper]()
 | 13 | Khaled Alhamad | [ShoeWear](https://github.com/KhaledAlhamad/EastStore) | [ShoeWear]()
